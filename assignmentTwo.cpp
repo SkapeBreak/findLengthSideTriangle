@@ -26,3 +26,5 @@ int main()
   cout << "The length of side c is: " << CalcTriangleEdge(a, b, gamma) << endl;
   return 0;
 }
+
+// comments
