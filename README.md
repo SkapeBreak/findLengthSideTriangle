@@ -2,3 +2,4 @@
 # findLengthSideTriangle
 # findLengthSideTriangle
 # findLengthSideTriangle
+# FindDistanceBetweenTwo3DPoints
